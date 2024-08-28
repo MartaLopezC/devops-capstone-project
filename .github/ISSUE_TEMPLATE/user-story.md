@@ -1,17 +1,11 @@
----
-name: CApstone user story template
-about: This template provides a basic structure for user story issues.
-
----
-
 **As a** *role*
 **I need** *function*
 **So that** *benefit*
       
 ### Details and Assumptions
-*Ideally, this is in the issue title, but if not, you can put it here. If so, delete this section.*
+*document what you know*
 
 ### Acceptance Criteria     
-Given  ...
-When  ...
-Then  ...
+Given  *some context*
+When  *certain action is taken*
+Then  *the outcome of action is observed*
