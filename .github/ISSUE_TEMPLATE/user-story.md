@@ -9,7 +9,7 @@ about: This template provides a basic structure for user story issues.
 **So that** [benefit]  
       
 ### Details and Assumptions
-    * [document what you know]      
+[document what you know]      
 ### Acceptance Criteria     
 Given  ...
 When  ...
