@@ -1,5 +1,5 @@
 ---
-name: User story template
+name: CApstone user story template
 about: This template provides a basic structure for user story issues.
 
 ---
